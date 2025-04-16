@@ -1,0 +1,13 @@
+{
+  "name": "usage-based-billing",
+  "scripts": {
+    "dev": "bun run --hot src/index.ts"
+  },
+  "dependencies": {
+    "@paddle/paddle-node-sdk": "^2.6.0",
+    "hono": "^4.7.7"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}
