@@ -23,7 +23,7 @@ export default function PricingPage({
   proPrice,
   enterprisePrice,
 }: PricingPageProps) {
-  const formatPrice = (price: string) => {
+  const formatPrice = (price: number) => {
     const symbol = getSymbolFromCurrency(currency);
     return `${symbol}${price}`;
   };

@@ -4,6 +4,7 @@
     "": {
       "name": "localised-checkout",
       "dependencies": {
+        "@paddle/paddle-js": "^1.4.1",
         "@paddle/paddle-node-sdk": "^2.6.0",
         "@radix-ui/react-slot": "^1.2.0",
         "class-variance-authority": "^0.7.1",
@@ -132,6 +133,8 @@
     "@nodelib/fs.walk": ["@nodelib/fs.walk@1.2.8", "", { "dependencies": { "@nodelib/fs.scandir": "2.1.5", "fastq": "^1.6.0" } }, "sha512-oGB+UxlgWcgQkgwo8GcEGwemoTFt3FIO9ababBmaGwXIoBKZ+GTy0pP185beGg7Llih/NSHSV2XAs1lnznocSg=="],
 
     "@nolyfill/is-core-module": ["@nolyfill/is-core-module@1.0.39", "", {}, "sha512-nn5ozdjYQpUCZlWGuxcJY/KpxkWQs4DcbMCmKojjyrYDEAGy4Ce19NN4v5MduafTwJlbKc99UA8YhSVqq9yPZA=="],
+
+    "@paddle/paddle-js": ["@paddle/paddle-js@1.4.1", "", {}, "sha512-GKuXVnUAIGq4H1AxrPRRMZXl+pTSGiKMStpRlvF6+dv03BwhkqbyHJJZ39e6bMquVbYSa33/9cu6fuW8pie8aQ=="],
 
     "@paddle/paddle-node-sdk": ["@paddle/paddle-node-sdk@2.6.0", "", {}, "sha512-tE8k1wpV/T6iaD/yAsYMSBqNA/zzQQU22rNj4BlPvCxSU2BDkDsZZQow6i5YpVfkdW5e8CS6rPYeRJHwsn/vag=="],
 
